@@ -1,0 +1,6 @@
+[submodule "peek-frontend"]
+	path = peek-frontend
+	url = https://github.com/Unorthdox-Developers/peek-frontend
+[submodule "peek-backend"]
+	path = peek-backend
+	url = https://github.com/Unorthdox-Developers/peek-backend.git
