@@ -4,3 +4,6 @@
 [submodule "peek-backend"]
 	path = peek-backend
 	url = https://github.com/Unorthdox-Developers/peek-backend.git
+[submodule "peek-testing"]
+	path = peek-testing
+	url = git@github.com:Unorthdox-Developers/peek-testing.git
