@@ -62,31 +62,31 @@ Just a short read [Wiki](https://github.com/Unorthdox-Developers/peek/wiki).
 <a name="design_patterns"></a>
 #### Design Patterns
 
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- :construction: work in progress
+
 
 <a name="programming_paradimes"></a>
 #### Programming Paradimes
 
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- :construction: work in progress
 
 <a name="frontend"></a>
 #### Front-End
 Checkout the [Front-End Repo](https://github.com/Unorthdox-Developers/peek-frontend)
 
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- :construction: work in progress
 
 <a name="backend"></a>
 #### Back-End
 Checkout the [Back-End Repo](https://github.com/Unorthdox-Developers/peek-backend)
 
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- :construction: work in progress
 
 <a name="testing"></a>
 #### Testing
 Checkout the [Testing Repo](https://github.com/Unorthdox-Developers/peek-testing)
 
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
+- :construction: work in progress
 <a name="key_team_members"></a>
 #### Key Team Members
 - [Frol Spak](https://github.com/FrolShpak)
@@ -95,8 +95,8 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 <a name="licenses"></a>
 ### Licenses
-
+- :construction: work in progress
 <a name="cicd"></a>
 #### CI/CD
-
+- :construction: work in progress
 
